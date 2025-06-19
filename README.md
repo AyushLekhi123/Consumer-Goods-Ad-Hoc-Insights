@@ -34,10 +34,11 @@ The management has identified a critical gap in data-driven decision-making due 
 - Common Table Expressions (**CTEs**)
 - Subqueries
 - Joins
+- CASE WHEN
 
 ### ✅ Window Functions
 - `OVER()`
-- `RANK()`
+- `ROW_NUMBER()`
 
 ### ✅ Aggregate Functions
 - `SUM()`
@@ -45,6 +46,9 @@ The management has identified a critical gap in data-driven decision-making due 
 - `MIN()`
 - `COUNT()`
 - `AVG()`
+
+### ✅ String Functions
+- `CONCAT()`
 
 ---
 
