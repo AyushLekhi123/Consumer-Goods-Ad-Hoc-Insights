@@ -25,7 +25,7 @@ The management has identified a critical gap in data-driven decision-making due 
 | Excel          | Data summarization, charting         |
 | PowerPoint     | Presenting final insights            |
 | VistaCreate    | Designing project thumbnail          |
-|                | and Home Slide                       |  
+|                  and Home Slide                       |  
 
 ---
 
