@@ -24,7 +24,8 @@ The management has identified a critical gap in data-driven decision-making due 
 | MySQL Workbench| Writing and executing SQL queries    |
 | Excel          | Data summarization, charting         |
 | PowerPoint     | Presenting final insights            |
-| VistaCreate    | Designing engaging visuals/slides    |
+| VistaCreate    | Designing project thumbnail          |
+                   and Home Slide                       
 
 ---
 
